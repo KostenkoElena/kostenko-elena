@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="ElenaKostenko">
+	<meta name="viewport" content="width=device-width, user-scalable=yes">
+	<title>Kostenko Elena</title>
+	<script src="https://use.fontawesome.com/dfa2b38ce6.js"></script>
+	<style type="text/css">
+		@media print {
+		     @page {
+		        margin: 1cm;
+		    }
+		 }
+		.body {
+			background-image: url(https://scontent.fiev6-1.fna.fbcdn.net/v/t1.6435-9/72072598_2455146111200992_288245996947767296_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=84a396&_nc_ohc=R6tjGkUPjuoAX-MHd9w&_nc_ht=scontent.fiev6-1.fna&oh=3d14fb9af7e9cd5e52789d287a7a7fd8&oe=60CC7D72); 
+			-moz-background-size: 100%;
+			-webkit-background-size:100%;
+			-o-background-size:100%;
+			background-size: 100%
+		}
+
+		.container {
+			display: flex;
+			flex-direction: column;
+			width: 100%;
+			padding-left: 10px;
+			
+		}
+		.header {
+			text-align: left;
+			font-family: cursive;
+			font-style: cursive;	
+
+		}
+		.first {
+			text-align-last: left;
+			 
+		}
+		.footer{
+			font-family: 
+		}
+		a img { 
+			float: left;
+			margin-right: 10px;
+
+
+		}
+	</style>
+</head>
+<body class="body">
+	<main>
+		<div class="container">
+			<div class="header">
+				<h1><i>Elena Kostenko</i></h1>
+				<h2><i><b>ТЕСТИРОВЩИК, JUNIOR QA</b></i></h2>
+				<p><i>без опыта работы в тестировании</i></p>
+				<address>тел. +38 (063)263-44-76</address>
+				<br>
+				<div class="social">
+    				<a href="https://www.instagram.com/lenochkakostenko/?hl=ru" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="25px" height="25px"/></a>
+  				</div> 
+  				<div class="social">
+    				<a href="https://www.facebook.com/lenochka.kesh/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="25px" height="25px"/></a>    
+				</div>
+				<div class="social">
+    				<a href="https://www.linkedin.com/in/olena-kostenko-723597169/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px" height="25px"/></a>
+				</div>
+				<div class="social">
+    				<a href="https://t.me/Lenochka_Kesh" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="25px" height="25px"/></a>
+				</div>
+				<div class="social">
+    				<a href="mailto:kostenkoelena1@gmail.com" target="_blank"> <img src="http://pngimg.com/uploads/email/email_PNG100737.png" width="25px" height="25px"/></a>
+				</div>
+			</div>
+			<div class="first">
+				<hr width="500" align="left">
+				<H2>Личностные данные:</H2>
+					<ul>
+						<li>Дата рождения: 14.10.1990</li>
+						<li>Не замужем</li>
+						<li>Детей нет</li>
+					</ul>
+				<hr width="500" align="left">		
+				<h2>Опыт работы:</h2>
+				<ol>
+					<li>2008-2016 - АТ Ощадбанк, на должностях от касира до руководителя отделения</li>
+					<li>2019 - по нынешнее время - АТ УКРСИББАНК", на должностях от консультанта финансового до должности управляющей портфелем среднего бизнеса</li>
+				</ol>
+				<hr width="500" align="left">
+
+				<h2>Образование:</h2>
+				<ul>
+					<li>Киевское высшее профессиональное училище сервиса и дизайна<p><u>Специальность:</u> секретарь руководителя</li></p>
+					<li>Национальная академия руководящих кадров, культуры и искусства<p><u>Специальность:</u> менеджер информационного и выставочного бизнеса</p></li>
+					<li>Частное высшее учебное заведение Никопольский экономический университет<p><u>Специальность:</u> менеджмент</p></li>
+				</ul>
+				<hr width="500" align="left">
+				<h2>Курсы:</h2>
+				<ol>2021 г.-КУРС Тестировщик ПО от <a href="https://skillup.ua/" target="-_blank">SkillUP</a></ol>
+				<hr width="500" align="left">
+				<h2>Навыки:</h2>
+				<ul>
+					<li>Знание и понимание основ тестирования. тестовой документации (test plan, test case, check list, test suite, test report, RTM, test data, defect report)</li>
+					<li>Знание уровней и видов тестирования, техники тест дизайна</li>
+					<li>Базовые знания мобильного тестирования</li>
+					<li>Понимание основ HTML/CSS, принцыпы создания сайта , верстка, понятие кросбраузерности, CV создано с помощью HTML и CSS</li>
+					<li>Проходила учебные задания <a href="https://www.sql-ex.ru/" target="_blank"> SQL-EX</a></li>
+					<li>Основы тестирования посредством API, использование Postman</li>
+					<li>Есть опыт работы в Sublime</li>
+					<li>Есть опыт работы с использованием системы отслеживания пакетов Jira, в рамках курса оформляли баг-порты</li>
+					<li>Знание DevTools</li>
+				</ul>
+				<hr width="500" align="left">
+				<h2>Дополнительные сведения:</h2>
+				<ul>
+					<li>Английский - на уровне Pre-Intermediate</li>
+				</ul>
+				<hr width="500" align="left">
+				
+			</div>
+			<div class="fotter">
+				<h2>Ожидания</h2>
+				<p>Получение интересной работы, професиональный и карьерный рост, работа в сплоченной, активной и большой команде, получение новых навыков. </p>				
+			</div>
+		</div>
+
+	</main>
+
+</body>
+</html>
